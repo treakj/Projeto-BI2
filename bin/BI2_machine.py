@@ -26,11 +26,9 @@ import pickle
 import datetime
 # import rata_util as rata
 from dateutil.relativedelta import relativedelta, MO
-
-
-
-                             
 from IPython.display import HTML
+
+
 
 
 # %%
